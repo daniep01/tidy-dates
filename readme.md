@@ -39,13 +39,13 @@ Run the script by passing the path to the directory containing your folders as a
 ### Option A: Relative or Absolute Path
 
 ```bash
-./rename_folders.sh ~/Documents/MyFolders
+./tidy-datessh ~/Documents/MyFolders
 
 ```
 
 ### Option B: The "Mac Trick"
 
-1. Type `./rename_folders.sh ` (ensure there is a space at the end).
+1. Type `./tidy-dates.sh ` (ensure there is a space at the end).
 2. Drag the folder you want to process from **Finder** directly into the **Terminal** window.
 3. Press **Enter**.
 
