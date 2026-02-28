@@ -16,10 +16,10 @@ A lightweight Zsh script designed for macOS (and Linux) to batch-rename folders 
 
 ### 1. Installation
 
-Save the script as `rename_folders.sh` and give it execute permissions:
+Save the script as `tidy-dates.sh` and give it execute permissions:
 
 ```bash
-chmod +x rename_folders.sh
+chmod +x tidy-dates.sh
 
 ```
 
